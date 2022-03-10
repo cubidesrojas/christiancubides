@@ -10,7 +10,7 @@
 #fi
 
 touch ./textcommit.txt 
-echo ./"HELLO  CHRISTIAN LETS MAKE OUR WORLD BETTER">> ./textcommit.txt
+echo ./"HELLO  CHRISTIAN LETS MAKE OUR WORLD BETTER, I can do amaizing things here!">> ./textcommit.txt
 cp textcommit.txt /c/Users/bigsh/Desktop/revature/christiancubides 
 git add ./
 git commit -m "auto commit "
