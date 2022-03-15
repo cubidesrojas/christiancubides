@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "name": "Attach",
+        "type": "godot-mono",
+        "request": "attach",
+        "address": "localhost",
+        "port": 23685
+    },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

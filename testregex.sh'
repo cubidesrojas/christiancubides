@@ -1,0 +1,28 @@
+#! user/bin/bash
+#! user/bin/bash
+#file=${date}logtime.txt
+emp=( a b c d )
+emp2=()
+if [[  -e che${date}.txt  ]]; then
+ echo  "this is my second trial"
+else
+ echo "these are the logs of date:" >./"che${date}.txt"
+fi
+while true; do 
+date=$(date +"%d-%m-%Y")
+time=$(date +"%T")
+time2=$(date +"%s")
+read  -p "Good  morning, please  enter  employ name " input 
+if [[ "${emp[@]}" =~ "${input}" ]]; then
+ echo " employ name ${input} entered at date ${date} and time ${time}">>./"che${date}.txt" 
+ emp2=("${emp2[${time2}]}""$input") 
+fi
+if [[ "${emp2[@]}" =~ "${input}" ]]; then
+ echo " employ ${input} clocked out at ${time}">>./"che${date}.txt" 
+fi
+if [[ ${input,,} == "stop" ]]; then
+ break
+fi 
+
+
+done 

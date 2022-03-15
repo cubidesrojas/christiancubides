@@ -1,0 +1,15 @@
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.csproj.AssemblyReference.cache
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.AssemblyInfoInputs.cache
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.AssemblyInfo.cs
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.csproj.CoreCompileInputs.cache
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\bin\Debug\net6.0\guessingnumber.exe
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\bin\Debug\net6.0\guessingnumber.deps.json
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\bin\Debug\net6.0\guessingnumber.runtimeconfig.json
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\bin\Debug\net6.0\guessingnumber.dll
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\bin\Debug\net6.0\guessingnumber.pdb
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.dll
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\refint\guessingnumber.dll
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.pdb
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\guessingnumber.genruntimeconfig.cache
+C:\Users\bigsh\Desktop\revature\christiancubides\wk-2\guessingnumber\obj\Debug\net6.0\ref\guessingnumber.dll
